@@ -1,2 +1,2 @@
 # git-test
-# vnext change 02 - NOTMERGED
+# master change 02 vnext change 02 - MERGED
